@@ -1,2 +1,2 @@
-# My first steps in X-Plane plugin development
+# My first steps in X-Plane plugin development ;-)
 
